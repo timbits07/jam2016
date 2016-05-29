@@ -1,0 +1,98 @@
+/*
+ Theme Name: JAM Child Theme
+ Description: JAM Child Theme
+ Author: Tim Storey
+ Author URI: http://timbits07.github.io
+ Template: lawyerbase
+ Version: 1.0.0
+*/
+ 
+@import url("../lawyerbase/style.css");
+
+/* Content:
+		Header
+		Page Titles
+		Home Page
+		Widgets
+		Attorneys
+		Forms
+		Responsive
+*/
+
+/* Header
+------------------------------------------------------- */
+.top-bar-right-text-inner {
+	font-size: 1.25rem;
+}
+
+/* Page Titles
+------------------------------------------------------- */
+.gdlr-page-title-wrapper .gdlr-page-caption {
+	display: inline-block;
+	background: rgba(255,255,255,0.8);
+	padding: 10px;
+}
+ 
+/* Home Page
+------------------------------------------------------- */
+.home .flexslider .slides img {
+	max-height: 235px;
+  width: auto;
+  margin: 0 auto;
+}
+#homepage-banner-title .gdlr-item-title,
+#homepage-banner-title .gdlr-item-title-caption {
+	color: #3e3e3e;
+}
+#homepage-banner {
+	padding-bottom: 178px;
+	padding-top: 150px;
+}
+#homepage-banner .gdlr-item-title-wrapper {
+	background: rgba(255,255,255,0.9);
+	padding: 20px;
+}
+#homepage-half-banner .gdlr-right-service-caption {
+	color: #3e3e3e;
+}
+
+
+/* Widgets
+------------------------------------------------------- */
+.gdlr-attorney-slider-widget .flexslider .slides img {
+	width: auto;
+	margin: 0 auto;
+}
+
+/* Attorneys
+------------------------------------------------------- */
+.gdlr-attorney-item .gdlr-attorney-thumbnail a img {
+	display: block;
+	margin: 0 auto;
+}
+
+/* Forms
+------------------------------------------------------- */
+.wpcf7 input[type="text"], .wpcf7 input[type="email"], .wpcf7 input[type="password"], .wpcf7 textarea {
+	padding: 8px 15px;
+}
+
+/* Responsive
+------------------------------------------------------- */
+@media screen and (max-width: 768px){
+	#homepage-banner {
+		padding-top: 60px;
+		padding-bottom: 40px;
+	}
+
+	#homepage-half-banner .gdlr-half-left .half-container {
+		margin-top: 0px !important;
+	}
+}
+
+@media screen and (max-width: 425px){
+	.gdlr-title-item .gdlr-item-title-wrapper .gdlr-item-title {
+		font-size: 34px;
+	}
+
+}

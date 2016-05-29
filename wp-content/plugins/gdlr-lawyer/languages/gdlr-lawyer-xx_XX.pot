@@ -1,0 +1,360 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Goodlayers Lawyer\n"
+"POT-Creation-Date: 2015-04-26 18:54+0700\n"
+"PO-Revision-Date: 2015-04-26 18:54+0700\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: en_US\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.7.4\n"
+"X-Poedit-Basepath: C:\\xampp\\htdocs\\lawyerbase\\wp-content\\plugins\\gdlr-"
+"lawyer\\\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: framework/gdlr-attorney-option.php:26
+#: framework/gdlr-attorney-option.php:38
+msgid "Attorneys"
+msgstr ""
+
+#: framework/gdlr-attorney-option.php:27
+#: framework/gdlr-attorney-option.php:154
+msgid "Attorney"
+msgstr ""
+
+#: framework/gdlr-attorney-option.php:28
+#: framework/gdlr-practice-option.php:28
+msgid "Add New"
+msgstr ""
+
+#: framework/gdlr-attorney-option.php:29
+msgid "Add New Attorney"
+msgstr ""
+
+#: framework/gdlr-attorney-option.php:30
+msgid "Edit Attorney"
+msgstr ""
+
+#: framework/gdlr-attorney-option.php:31
+msgid "New Attorney"
+msgstr ""
+
+#: framework/gdlr-attorney-option.php:32
+msgid "All Attorneys"
+msgstr ""
+
+#: framework/gdlr-attorney-option.php:33
+msgid "View Attorney"
+msgstr ""
+
+#: framework/gdlr-attorney-option.php:34
+msgid "Search Attorney"
+msgstr ""
+
+#: framework/gdlr-attorney-option.php:35
+msgid "No attorneys found"
+msgstr ""
+
+#: framework/gdlr-attorney-option.php:36
+msgid "No attorneys found in Trash"
+msgstr ""
+
+#: framework/gdlr-attorney-option.php:59
+msgid "Attorney Categories"
+msgstr ""
+
+#: framework/gdlr-attorney-option.php:60
+msgid "Attorney Category"
+msgstr ""
+
+#: framework/gdlr-attorney-option.php:95
+msgid "Goodlayers Aattorney Option"
+msgstr ""
+
+#: framework/gdlr-attorney-option.php:105
+#: framework/gdlr-practice-option.php:105
+msgid "Page Layout"
+msgstr ""
+
+#: framework/gdlr-attorney-option.php:108
+#: framework/gdlr-practice-option.php:141
+msgid "Page Caption"
+msgstr ""
+
+#: framework/gdlr-attorney-option.php:112
+#: framework/gdlr-practice-option.php:145
+msgid "Header Background Image"
+msgstr ""
+
+#: framework/gdlr-attorney-option.php:113
+#: framework/gdlr-practice-option.php:146
+msgid "Upload"
+msgstr ""
+
+#: framework/gdlr-attorney-option.php:120
+#: framework/gdlr-practice-option.php:134
+msgid "Page Option"
+msgstr ""
+
+#: framework/gdlr-attorney-option.php:123
+msgid "Position"
+msgstr ""
+
+#: framework/gdlr-attorney-option.php:127
+msgid "Telephone"
+msgstr ""
+
+#: framework/gdlr-attorney-option.php:131
+msgid "Email"
+msgstr ""
+
+#: framework/gdlr-attorney-option.php:135
+msgid "Social ( Shortcode )"
+msgstr ""
+
+#: framework/gdlr-attorney-option.php:158
+#: framework/gdlr-practice-option.php:173
+msgid "Category"
+msgstr ""
+
+#: framework/gdlr-attorney-option.php:161
+#: framework/gdlr-practice-option.php:176
+msgid ""
+"You can use Ctrl/Command button to select multiple categories or remove the "
+"selected category. <br><br> Leave this field blank to select all categories."
+msgstr ""
+
+#: framework/gdlr-attorney-option.php:164
+msgid "Attorney Size"
+msgstr ""
+
+#: framework/gdlr-attorney-option.php:175
+#: framework/gdlr-practice-option.php:200
+msgid "Num Fetch"
+msgstr ""
+
+#: framework/gdlr-attorney-option.php:178
+msgid "Specify the number of attorney you want to pull out."
+msgstr ""
+
+#: framework/gdlr-attorney-option.php:181
+#: framework/gdlr-practice-option.php:206
+msgid "Num Excerpt"
+msgstr ""
+
+#: framework/gdlr-attorney-option.php:186
+msgid "Attorney Layout Order"
+msgstr ""
+
+#: framework/gdlr-attorney-option.php:189
+#: framework/gdlr-practice-option.php:215
+msgid "FitRows ( Order items by row )"
+msgstr ""
+
+#: framework/gdlr-attorney-option.php:190
+#: framework/gdlr-practice-option.php:216
+msgid "Masonry ( Order items by spaces )"
+msgstr ""
+
+#: framework/gdlr-attorney-option.php:191
+#: framework/gdlr-practice-option.php:217
+msgid "Carousel ( Only For Grid And Modern Style )"
+msgstr ""
+
+#: framework/gdlr-attorney-option.php:193
+#: framework/gdlr-practice-option.php:220
+msgid "You can see an example of these two layout here"
+msgstr ""
+
+#: framework/gdlr-attorney-option.php:197
+#: framework/gdlr-practice-option.php:231
+msgid "Thumbnail Size"
+msgstr ""
+
+#: framework/gdlr-attorney-option.php:200
+#: framework/gdlr-practice-option.php:234
+msgid "Only effects to <strong>standard and gallery post format</strong>"
+msgstr ""
+
+#: framework/gdlr-attorney-option.php:203
+#: framework/gdlr-practice-option.php:237
+msgid "Order By"
+msgstr ""
+
+#: framework/gdlr-attorney-option.php:206
+#: framework/gdlr-practice-option.php:240
+msgid "Publish Date"
+msgstr ""
+
+#: framework/gdlr-attorney-option.php:207
+#: framework/gdlr-practice-option.php:241
+msgid "Title"
+msgstr ""
+
+#: framework/gdlr-attorney-option.php:208
+#: framework/gdlr-practice-option.php:242
+msgid "Random"
+msgstr ""
+
+#: framework/gdlr-attorney-option.php:212
+#: framework/gdlr-practice-option.php:246
+msgid "Order"
+msgstr ""
+
+#: framework/gdlr-attorney-option.php:215
+#: framework/gdlr-practice-option.php:249
+msgid "Descending Order"
+msgstr ""
+
+#: framework/gdlr-attorney-option.php:216
+#: framework/gdlr-practice-option.php:250
+msgid "Ascending Order"
+msgstr ""
+
+#: framework/gdlr-attorney-option.php:220
+#: framework/gdlr-practice-option.php:254
+msgid "Enable Pagination"
+msgstr ""
+
+#: framework/gdlr-attorney-option.php:224
+#: framework/gdlr-practice-option.php:258
+msgid "Margin Bottom"
+msgstr ""
+
+#: framework/gdlr-attorney-option.php:227
+#: framework/gdlr-practice-option.php:261
+msgid "Spaces after ending of this item"
+msgstr ""
+
+#: framework/gdlr-practice-option.php:26
+#: framework/gdlr-practice-option.php:38
+msgid "Practices"
+msgstr ""
+
+#: framework/gdlr-practice-option.php:27
+#: framework/gdlr-practice-option.php:169
+msgid "Practice"
+msgstr ""
+
+#: framework/gdlr-practice-option.php:29
+msgid "Add New Practice"
+msgstr ""
+
+#: framework/gdlr-practice-option.php:30
+msgid "Edit Practice"
+msgstr ""
+
+#: framework/gdlr-practice-option.php:31
+msgid "New Practice"
+msgstr ""
+
+#: framework/gdlr-practice-option.php:32
+msgid "All Practices"
+msgstr ""
+
+#: framework/gdlr-practice-option.php:33
+msgid "View Practice"
+msgstr ""
+
+#: framework/gdlr-practice-option.php:34
+msgid "Search Practice"
+msgstr ""
+
+#: framework/gdlr-practice-option.php:35
+msgid "No practices found"
+msgstr ""
+
+#: framework/gdlr-practice-option.php:36
+msgid "No practices found in Trash"
+msgstr ""
+
+#: framework/gdlr-practice-option.php:59
+msgid "Practice Categories"
+msgstr ""
+
+#: framework/gdlr-practice-option.php:60
+msgid "Practice Category"
+msgstr ""
+
+#: framework/gdlr-practice-option.php:95
+msgid "Goodlayers Practice Option"
+msgstr ""
+
+#: framework/gdlr-practice-option.php:119
+msgid "Left Sidebar"
+msgstr ""
+
+#: framework/gdlr-practice-option.php:125
+msgid "Right Sidebar"
+msgstr ""
+
+#: framework/gdlr-practice-option.php:137
+msgid "Page Title"
+msgstr ""
+
+#: framework/gdlr-practice-option.php:150
+msgid "PDF Download Link"
+msgstr ""
+
+#: framework/gdlr-practice-option.php:179
+msgid "Practice Style"
+msgstr ""
+
+#: framework/gdlr-practice-option.php:182
+msgid "Widget Style"
+msgstr ""
+
+#: framework/gdlr-practice-option.php:183
+msgid "Classic Style"
+msgstr ""
+
+#: framework/gdlr-practice-option.php:184
+msgid "Modern Style"
+msgstr ""
+
+#: framework/gdlr-practice-option.php:188
+msgid "Practice Size"
+msgstr ""
+
+#: framework/gdlr-practice-option.php:203
+msgid "Specify the number of practices you want to pull out."
+msgstr ""
+
+#: framework/gdlr-practice-option.php:212
+msgid "Practice Layout Order"
+msgstr ""
+
+#: framework/gdlr-practice-option.php:224
+msgid "Enable Practice filter"
+msgstr ""
+
+#: framework/gdlr-practice-option.php:228
+msgid ""
+"*** You have to select only 1 ( or none ) category when enable this option. "
+"This option cannot works with carousel function."
+msgstr ""
+
+#: include/gdlr-attorney-item.php:57
+msgid "Read Profile"
+msgstr ""
+
+#: include/gdlr-practice-item.php:64
+msgid "All"
+msgstr ""
+
+#: include/gdlr-practice-item.php:190
+msgid "Learn More"
+msgstr ""
+
+#: single-attorney.php:34
+msgid "Contacts"
+msgstr ""
+
+#: single-practice.php:39
+msgid "Download PDF"
+msgstr ""
